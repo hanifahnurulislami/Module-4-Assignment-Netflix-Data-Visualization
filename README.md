@@ -43,17 +43,14 @@ This project consists of two main files:
 **1. Top 10 Most Watched Genres (Python)**
 This bar chart displays the top 10 genres on Netflix by the number of titles. This visualization provides a quick overview of the content categories most available on the platform.
 
-![Top 10 Most Watched Genres on Netflix](https://i.imgur.com/uWf6p0t.png)
 
 **2. Rating Distribution (Python)**
 This horizontal bar chart shows the distribution of ratings (e.g., TV-MA, TV-14, TV-PG) across the dataset using Matplotlib. This visualization is very useful for understanding the target audience demographics of the existing content.
 
-![Distribution of Ratings Python](https://i.imgur.com/a4gXo3s.png)
 
 **3. Rating Distribution (R)**
 This is the same visualization as the one created in Python, but it is implemented using the ggplot2 package in R.
 
-![Distribution of Ratings R](https://i.imgur.com/65x5u7T.png)
 
 ---
 
